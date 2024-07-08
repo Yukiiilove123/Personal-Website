@@ -11,3 +11,10 @@ body {
   background-color: #82BAC4;
 }
 
+#name {
+  text-align: center;
+}
+
+#interests {
+  text-align: center;
+}
