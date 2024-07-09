@@ -37,8 +37,10 @@ header {
 
 .girl-groups {
   text-align: center;
+  list-style: decimal inside none;
 }
 
 .boy-groups {
   text-align: center;
+  list-style: decimal inside none;
 }
